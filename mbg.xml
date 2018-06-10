@@ -115,8 +115,6 @@
         <table tableName="qrcode_browse_record" ></table>
         <table tableName="qrcode_info" ></table>
         <table tableName="sms_daily_statistical" ></table>
-        <table tableName="sms_mass_info" ></table>
-        <table tableName="sms_send_record" ></table>-->
 
 
 
